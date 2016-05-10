@@ -1,4 +1,4 @@
-#!/bin/exec python
+#!/usr/bin/env python
 import requests
 import pickle
 from bs4 import BeautifulSoup
